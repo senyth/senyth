@@ -13,16 +13,7 @@ Here's the quickest way to get to know my work:
 
 ## 🛠️ What I work with
 
-`React` · `Angular` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `Tailwind` · `Sass CSS`
-
-## 🌱 Currently
-
-- Building and polishing my portfolio projects
-- Sharpening my front-end skills
-
-## ✨ Fun fact
-
-I have a one-year old toddler who I play with when I'm not coding
+`React` · `Angular` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `Tailwind` · `Sass`
 
 ## 📬 Let's talk
 
