@@ -1,3 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://senyth.vercel.app/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'A Portfolio by Babie Senyth Gacasan'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
