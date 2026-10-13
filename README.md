@@ -6,10 +6,7 @@ I'm a front-end software engineer who enjoys building stuff on the internet.
 
 I'm open to front-end developer roles. If you're a recruiter or hiring manager, I'd love to hear from you.
 
-Here's the quickest way to get to know my work:
-
-- 🌐 **Portfolio:** [senyth.vercel.app](https://senyth.vercel.app)
-- 📌 **Featured repos:** pinned just below
+Feel free to visit my portfolio at [senyth.vercel.app](https://senyth.vercel.app).
 
 ## 🛠️ What I work with
 
