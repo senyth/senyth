@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Senyth 👋
 
-<!--
-**senyth/senyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end software engineer who enjoys building stuff on the internet.
 
-Here are some ideas to get you started:
+## 🔎 I'm currently looking for work!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm open to front-end developer roles. If you're a recruiter or hiring manager, I'd love to hear from you.
+
+## 🛠️ What I work with
+
+`React` · `Angular` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `Tailwind` · `Sass CSS`
+
+## 📬 Let's talk
+
+- Email: senythgacasan@gmail.com
+- LinkedIn: [Senyth](https://www.linkedin.com/in/senythgacasan)
+
+Thanks for stopping by! 😊
